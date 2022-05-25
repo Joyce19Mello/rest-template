@@ -1,11 +1,10 @@
-package com.template.cats.demonstracaoresttemplate;
+package com.api.cats.rest.template;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class DemonstracaoRestTemplateApplicationTests {
-
     @Test
     void contextLoads() {
     }
